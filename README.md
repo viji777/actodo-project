@@ -23,25 +23,13 @@ ActoDo is a simple yet powerful task management application designed to streamli
 
 To run ActoDo locally, follow these steps:
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone <repository-url>
-Navigate to the project directory:
-
-bash
-Copy code
+1.Navigate to the project directory:
 cd actodo
-Install dependencies using npm:
-
-bash
-Copy code
+2.Install dependencies using npm:
 npm install
-Start the development server:
-
-bash
-Copy code
+3.Start the development server:
 npm start
-Open your browser and visit http://localhost:3000 to view ActoDo.
+4.Open your browser and visit http://localhost:3000 to view ActoDo.
 
 Technologies Used
 React.js
