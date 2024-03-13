@@ -51,27 +51,7 @@ React.js
 Tailwind CSS
 HTML
 CSS
-Folder Structure
-css
-Copy code
-actodo/
-│
-├── src/
-│   ├── components/
-│   │   ├── AddTodoForm.js
-│   │   ├── Card.js
-│   │   ├── Header.js
-│   │   ├── TodoContainer.js
-│   │   ├── TodoItem.js
-│   │   └── TodoList.js
-│   ├── assets/
-│   │   └── images/
-│   │       └── ... (add your images here)
-│   ├── App.js
-│   ├── index.js
-│   └── ...
-│
-└── ...
+
 Contributing
 Contributions are welcome! If you'd like to contribute to ActoDo, feel free to fork the repository and submit a pull request.
 
