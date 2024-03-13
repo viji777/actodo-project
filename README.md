@@ -1,7 +1,4 @@
-Certainly! Here's a README file tailored to your ActoDo project, considering your use of React.js, Tailwind CSS, and the mentioned components:
 
-markdown
-Copy code
 # ActoDo
 
 Welcome to ActoDo, a productivity tool built with React.js and Tailwind CSS to help you manage your tasks efficiently!
